@@ -144,13 +144,15 @@ Techniques used:
 ---
 
 ## Dashboard Preview
-<img width="929" height="647" alt="image" src="https://github.com/user-attachments/assets/4495cb51-7de1-4430-a96d-cc15618b3ce7" />
+<img width="1041" height="647" alt="image" src="https://github.com/user-attachments/assets/4495cb51-7de1-4430-a96d-cc15618b3ce7" />
 
+---
 
-<img width="1041" height="726" alt="image" src="https://github.com/user-attachments/assets/734ca448-a632-4d19-9c2a-e0675c6d8315" />
+<img width="1041" height="647" alt="image" src="https://github.com/user-attachments/assets/734ca448-a632-4d19-9c2a-e0675c6d8315" />
 
+---
 
-<img width="1043" height="724" alt="image" src="https://github.com/user-attachments/assets/7ec765e5-0bf6-4e4e-a9b2-5c3f5c7cc8ce" />
+<img width="1041" height="647" alt="image" src="https://github.com/user-attachments/assets/7ec765e5-0bf6-4e4e-a9b2-5c3f5c7cc8ce" />
 
 
 ---
